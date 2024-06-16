@@ -1,0 +1,69 @@
+{
+    "teams": [
+      {
+        "id": 1,
+        "name": "Operational Team",
+        "members": [
+          {
+            "id": 1,
+            "name": "John Doe",
+            "role": "Manager"
+          },
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "role": "Supervisor"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Marketing Team",
+        "members": [
+          {
+            "id": 3,
+            "name": "Alice Johnson",
+            "role": "Coordinator"
+          },
+          {
+            "id": 4,
+            "name": "Bob Williams",
+            "role": "Specialist"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chef Team",
+        "members": [
+          {
+            "id": 5,
+            "name": "Michael Brown",
+            "role": "Head Chef"
+          },
+          {
+            "id": 6,
+            "name": "Emily Garcia",
+            "role": "Sous Chef"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Design Team",
+        "members": [
+          {
+            "id": 7,
+            "name": "David Martinez",
+            "role": "Lead Designer"
+          },
+          {
+            "id": 8,
+            "name": "Sarah Clark",
+            "role": "Graphic Designer"
+          }
+        ]
+      }
+    ]
+  }
+  
